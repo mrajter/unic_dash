@@ -1,0 +1,12 @@
+dash
+dash_core_components
+dash_html_components
+dash.dependencies
+sklearn.feature_extraction.text
+sklearn.metrics.pairwise
+pandas
+nltk
+nltk.corpus
+nltk.stem
+nltk.tokenize
+dash.exceptions
